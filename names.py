@@ -30,7 +30,6 @@ users = {
  }
 
 def letsGo(maindic):
-    dstr = ''
     for dic in maindic:
         counter = 0
         print dic 
